@@ -1,6 +1,4 @@
-
-
-#Build a Recommendation Engine with IBM
+#**Build a Recommendation Engine with IBM**
 
 
 This project is part of the Data Science Nanodegree by Udacity. 
